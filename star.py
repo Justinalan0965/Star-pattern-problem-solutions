@@ -74,7 +74,7 @@ for i in range(n):
 
 print("\n\n")
 
-#Hill star pattern upside-down
+#Hill pattern upside-down
 print("Hill pattern upside-down:\n\n")
 for i in range(n):
     for j in range(i+1):
